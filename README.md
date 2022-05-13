@@ -1,6 +1,6 @@
 # stratum-api-node
 
-## Javascript sdk for stratum api in NodeJs
+## Javascript sdk for stratu api in NodeJs
 
 
 Copy env example and add api user and key
